@@ -1,0 +1,6 @@
+{
+  "name": "呼吸",
+  "description": "你今天呼吸了吗？荒谬趣味呼吸计数器与好友排行榜，娱乐计数，健康活着。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
